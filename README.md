@@ -5,7 +5,12 @@ using the Producer/Consumer approach, which takes an input file containing
 list of urls to be fetched and returns a list of url it found on that page.
 
 
-## How to use ?
+### Requirements
+
+This prohect makes use of the Requests and BeautifulSoup library.
+
+
+### How to use ?
 
 1. Simply create a file which contains one url per line and place it inside
 the data folder. Refer data/sample_input for details. Please ensure that the
@@ -25,4 +30,3 @@ extracted from that page.
 
 'output_file' keyword is optional. if not supplied, the program will itself
 create an output file having name as <inputfile>_output.csv
-
