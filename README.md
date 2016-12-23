@@ -7,7 +7,7 @@ list of urls to be fetched and returns a list of url it found on that page.
 
 ### Requirements
 
-This prohect makes use of the Requests and BeautifulSoup library.
+This project makes use of the Requests and BeautifulSoup library.
 
 
 ### How to use ?
